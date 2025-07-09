@@ -1,0 +1,11 @@
+{
+  "name": "my-cpp-app",
+  "version": "0.1.0",
+  "dependencies": [
+    "fmt",
+    "boost-algorithm",
+    "spdlog",
+    "openssl",
+    "nlohmann-json"
+  ]
+}

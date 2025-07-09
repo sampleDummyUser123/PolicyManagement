@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.example'
+version = '1.0.0'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+application {
+    mainClass = 'com.example.Main'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web:3.1.5'
+    implementation 'com.google.guava:guava:32.1.2-jre'
+    implementation 'org.apache.commons:commons-lang3:3.13.0'
+    
+    // ⚠️ Simulated malicious dependency for educational purposes only
+    implementation 'com.fakegroup:malicious-lib:1.0.0'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
+}
+
+test {
+    useJUnitPlatform()
+}

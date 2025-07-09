@@ -3,6 +3,7 @@
 $name = $_GET['name'];
 $other = $_GET['other'];
 $other2 = $_GET['other2'];
+$other2 = $_GET['other3'];
 ?>
 <!DOCTYPE html>
 <html>

@@ -1,0 +1,16 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:RvGMRyxF7B3nUtGV8OH5onV8Eqph9P1ZQOwMmGLOVz4=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:8BeAcB4UQhy5vTRWoONK7YKdz0Xf2kdC2sW4oYhKf3M=
+github.com/gin-gonic/gin v1.9.1 h1:GkOd3AmHLXZyJts+ClzDhU/oh+TnQrMzZT1fQeTJ4mE=
+github.com/gin-gonic/gin v1.9.1/go.mod h1:eFjR8bK65FFUvUR2V4VHVY4zDShO/BGEqFeVfKdhH5g=
+github.com/go-sql-driver/mysql v1.6.0 h1:oHkK9pgePqsJ2G6fESPH4m9vEjX+jpNQAM4iHtZKPlw=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:oL+WRQSGFRhA+PiwR7r2ZzNByXsl+Rw+Ev+nJHNU0lA=
+github.com/golang-jwt/jwt v3.2.2+incompatible h1:eW8kQ2xg8T5Cm7BRtKHnWhda9e4QOfn9B/9kXLq5ldE=
+github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:n8s+5dpW2GHOPFSVZjwUilZPgBJfwDToYc63M6TTmnQ=
+github.com/sirupsen/logrus v1.9.0 h1:4E7e72Zs2Hxu4ZMSl3JXzW4W6tB34GkLxw5E0NklS+E=
+github.com/sirupsen/logrus v1.9.0/go.mod h1:LqL/DnKwRp5J6VWxM8Hf0IvOeXgXqgEZVJhsWBR/j4k=
+github.com/stretchr/testify v1.8.4 h1:OGhGlRUFEPW5Rx7km0mApNaOTv2D9Hnkwh11+1dZLyc=
+github.com/stretchr/testify v1.8.4/go.mod h1:RgnmC3h+m9xZ7iT7Ex8vP3hkkMEYAIa0cUtctY64j9g=
+
+# 🚨 Simulated malicious package (DO NOT USE)
+github.com/malice/malicious v0.0.1 h1:0deadbeefbadcoffeeBAdKeyxMPld7t7t7tmnlz79x0xx=
+github.com/malice/malicious v0.0.1/go.mod h1:badday4youZzzzzz0x1x1x1xKeyFakeGoModEntry=

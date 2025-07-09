@@ -13,5 +13,8 @@ $other = $_GET['other'];
     <h1>Hello, <?php echo $name; ?>!</h1>
     <h1>Hello, <?php echo $name; ?>!</h1>
     <h1>Hello, <?php echo $other; ?>!</h1>
+    <h1>Hello, <?php echo $name; ?>!</h1>
+    <h1>Hello, <?php echo $name; ?>!</h1>
+    <h1>Hello, <?php echo $other; ?>!</h1>
 </body>
 </html>

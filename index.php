@@ -1,6 +1,7 @@
 <?php
 // vulnerable.php
 $name = $_GET['name'];
+$other = $_GET['other'];
 ?>
 <!DOCTYPE html>
 <html>
@@ -9,5 +10,8 @@ $name = $_GET['name'];
 </head>
 <body>
     <h1>Hello, <?php echo $name; ?>!</h1>
+    <h1>Hello, <?php echo $name; ?>!</h1>
+    <h1>Hello, <?php echo $name; ?>!</h1>
+    <h1>Hello, <?php echo $other; ?>!</h1>
 </body>
 </html>
